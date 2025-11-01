@@ -89,7 +89,9 @@ notes - Bloc-notes personnel des enseignants
 ## Diagramme de cas d'utilisation
 <img width="747" height="582" alt="Screenshot 2025-11-01 at 23 23 56" src="https://github.com/user-attachments/assets/46982b96-81a0-43e2-afe2-766b568f9537" />
 
+## Diagramme de classe
 
+<img width="789" height="713" alt="Screenshot 2025-11-01 at 23 23 50" src="https://github.com/user-attachments/assets/4a5e0ac5-1a33-4e58-87ac-f75640013149" />
 
 
 
