@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoSkip</string>
+    <string name="inscription">S\'inscrire</string>
+    <string name="connection">Se connecter</string>
+</resources>

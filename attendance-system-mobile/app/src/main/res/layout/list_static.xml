@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/classe_name_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="5"
+                android:fontFamily="@font/mada_semibold"
+                android:text="14-10-2023"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:text="20 P"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp"
+                app:chipBackgroundColor="#009688"
+                app:chipCornerRadius="20dp"
+                app:chipEndPadding="5dp"
+                app:chipMinTouchTargetSize="0dp"
+                app:chipStartPadding="5dp" />
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="3dp"
+                android:text="5 A"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp"
+                app:chipBackgroundColor="#FF6B6B"
+                app:chipCornerRadius="20dp"
+                app:chipEndPadding="5dp"
+                app:chipMinTouchTargetSize="0dp"
+                app:chipStartPadding="5dp" />
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chipJ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:text="5 J"
+                android:textColor="#FFFFFF"
+                android:textSize="12sp"
+                app:chipBackgroundColor="#03A9F4"
+                app:chipCornerRadius="20dp"
+                app:chipEndPadding="5dp"
+                app:chipMinTouchTargetSize="0dp"
+                app:chipStartPadding="5dp" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/purple_nav"
+            />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

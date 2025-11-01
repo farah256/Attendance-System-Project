@@ -1,0 +1,14 @@
+# Ignorer les fichiers spécifiques à Node.js (frontend)
+frontend/node_modules/
+frontend/.env
+
+# Ignorer les fichiers spécifiques à Java (backend)
+backend/target/
+backend/.env
+
+# Ignorer les fichiers de configuration IDE (IntelliJ par exemple)
+.idea/
+*.iml
+
+# Ignorer les fichiers de logs
+*.log
