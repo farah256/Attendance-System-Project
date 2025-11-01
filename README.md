@@ -1,4 +1,4 @@
-#NoSkip - Application de Gestion des Absences des Étudiants
+# NoSkip - Application de Gestion des Absences des Étudiants
 ## Aperçu du Projet
 NoSkip est une application web et mobile complète destinée à la gestion des absences des étudiants. Développée dans le cadre du module Bases de Données NoSQL, elle permet aux enseignants de suivre l'assiduité de leurs étudiants de manière centralisée, intuitive et sécurisée.
 
