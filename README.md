@@ -93,7 +93,9 @@ notes - Bloc-notes personnel des enseignants
 
 <img width="789" height="713" alt="Screenshot 2025-11-01 at 23 23 50" src="https://github.com/user-attachments/assets/4a5e0ac5-1a33-4e58-87ac-f75640013149" />
 
+# Application mobile
+https://github.com/farah256/Attendance-System-Project/tree/main/videos#:~:text=..-,mobile.mp4,-Add%20files%20via
 
-
+# Admin Dashboard
 
 
